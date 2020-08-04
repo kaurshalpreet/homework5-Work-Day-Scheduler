@@ -39,7 +39,7 @@ When you scroll down you are presented with timeblocks for standard business hou
 
 Each timeblock is color coded to indicate whether it is in the past, present, or future. Grey color represents past hour(s), Red color represents present hour and Green color represents future hour(s).
 
-![Timeblock Color Codes](./assets/questions.gif)
+![Timeblock Color Codes](./assets/colorCoded.gif)
 
 ---
 
